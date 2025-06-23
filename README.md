@@ -1,20 +1,25 @@
-<p align="center" style="font-size:2em; font-weight:bold; margin-bottom:0.2em;">The Sudo School</p>
-<h3 align="center" style="margin-top:0;">Cybersecurity Bootcamp</h3>
+# <p align="center">The Sudo School</p>
+## <p align="center">A Cybersecurity Bootcamp</p>
+
 
 <p align="center">
-  <img src="smash.png" alt="Cybersecurity Dino Smash" width="70%">
+  <img src="smash.png" alt="Cybersecurity Dino Smash" width="50%">
 </p>
 
 ---
 
-## Lesson 1: Linux and Virtual Machines
+## Lesson 1: [Linux and Virtual Machines](https://vimeo.com/1095473479)
 
-[Linux and Virtual Machines](https://vimeo.com/1095473479)
-[![Lesson 01 Thumbnail](thumb01.avif)](https://vimeo.com/1095473479)  
+<p>
+  <a href="https://vimeo.com/1095473479">
+    <img src="thumb01.avif" alt="Linux and Virtual Machines" width="70%">
+  </a>
+</p>
 
 
-<details>
-<summary><strong>Lesson Notes</strong></summary>
+
+
+### Lesson Notes
 
 - **You need to learn networking!**  
 - **You need to learn Linux!**
@@ -27,7 +32,7 @@
 - *Hypervisor*  
   - VirtualBox: free and easy
 
-</details>
+
 
 ---
 
