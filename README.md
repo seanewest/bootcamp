@@ -1,6 +1,9 @@
-# Sudo School Bootcamp
+<p align="center" style="font-size:2em; font-weight:bold; margin-bottom:0.2em;">The Sudo School</p>
+<h3 align="center" style="margin-top:0;">Cybersecurity Bootcamp</h3>
 
-![Cybersecurity Dino Smash](smash.png)
+<p align="center">
+  <img src="smash.png" alt="Cybersecurity Dino Smash" width="70%">
+</p>
 
 ---
 
