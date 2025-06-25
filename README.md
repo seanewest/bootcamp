@@ -100,3 +100,29 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 
 ---
+
+## Lesson 5: [Multiple Virtual Machines](https://vimeo.com/1096368616/20f3cc6361?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1096368616/20f3cc6361?share=copy">
+    <img src="content/thumb5.avif" alt="Importing Virtual Machines" width="70%">
+  </a>
+</p>
+
+## Optional Lesson: [Getting Other VMs](https://vimeo.com/1096355633/566f9f08d7?share=copy)
+
+### Lesson Notes
+
+- Check out the [optional lesson](https://vimeo.com/1096355633/566f9f08d7?share=copy) above to see how to get more Linux Desktop VMs from [linuxvmimages.com](https://linuxvmimages.com)
+
+
+- DON'T RUN OUT OF RAM!!
+- Lubuntu: 1GB
+- Other Linux VMs: 2GB+
+- Opening up a browser in a VM will be slow (if < 4GB)
+- Most important linux application: Terminal / Command Line
+- Most computers running Linux are not consumer laptops/desktops
+
+
+
+---
