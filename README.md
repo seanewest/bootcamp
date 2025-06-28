@@ -126,3 +126,25 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 
 ---
+
+## Lesson 6: [Linux Command Line](https://vimeo.com/1096368616/20f3cc6361?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1096368616/20f3cc6361?share=copy">
+    <img src="content/thumb5.avif" alt="Importing Virtual Machines" width="70%">
+  </a>
+</p>
+
+
+### Lesson Notes
+
+- [10,000 most common passwords](https://raw.githubusercontent.com/danielmiessler/SecLists/refs/tags/2025.2/Passwords/Common-Credentials/10k-most-common.txt)
+
+<details>
+<summary>Common Commands (click to see)</summary>
+
+</details>
+
+
+
+---
