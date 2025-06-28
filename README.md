@@ -58,7 +58,7 @@
 
 <p>
   <a href="https://vimeo.com/1096279831/b804b9812d?share=copy">
-    <img src="content/thumb3.avif" alt="Importing Virtual Machines" width="70%">
+    <img src="content/thumb3.avif" alt="Virtual Machines and Hard Drive Space" width="70%">
   </a>
 </p>
 
@@ -77,7 +77,7 @@
 
 <p>
   <a href="https://vimeo.com/1096283153/3d94d9d252?share=copy">
-    <img src="content/thumb4.avif" alt="Importing Virtual Machines" width="70%">
+    <img src="content/thumb4.avif" alt="Our First Virtual Machine" width="70%">
   </a>
 </p>
 
@@ -105,7 +105,7 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 <p>
   <a href="https://vimeo.com/1096368616/20f3cc6361?share=copy">
-    <img src="content/thumb5.avif" alt="Importing Virtual Machines" width="70%">
+    <img src="content/thumb5.avif" alt="Multiple Virtual Machines" width="70%">
   </a>
 </p>
 
@@ -127,11 +127,11 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 ---
 
-## Lesson 6: [Linux Command Line](https://vimeo.com/1096368616/20f3cc6361?share=copy)
+## Lesson 6: [Linux Command Line](https://vimeo.com/1097198072/0151a1759a?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1096368616/20f3cc6361?share=copy">
-    <img src="content/thumb5.avif" alt="Importing Virtual Machines" width="70%">
+  <a href="https://vimeo.com/1097198072/0151a1759a?share=copy">
+    <img src="content/thumb6.avif" alt="Linux Command Line" width="70%">
   </a>
 </p>
 
@@ -140,11 +140,18 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 - [10,000 most common passwords](https://raw.githubusercontent.com/danielmiessler/SecLists/refs/tags/2025.2/Passwords/Common-Credentials/10k-most-common.txt)
 
-<details>
-<summary>Common Commands (click to see)</summary>
+**Simple Commands**
+- ls - list files/folders
+- cat - print contents of file to terminal
+- clear - clear the terminal
+- curl - kind of like download
+- head - top 10 lines of a file
+- tail - last 10
+- grep - search for keyword in text
 
-</details>
-
-
-
+**Keyboard Shortcuts**
+- ctrl-alt-T - opens a terminal
+- ctrl-shift-+ - increase terminal text size
+- ctrl-A - goes to beginning of line
+- up/down arrow keys - cycle through previous commands
 ---
