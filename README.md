@@ -8,7 +8,7 @@
 
 ---
 
-## Lesson: [Linux and Virtual Machines](https://vimeo.com/1095473479/f72bc72015?share=copy)
+## Lesson 1: [Linux and Virtual Machines](https://vimeo.com/1095473479/f72bc72015?share=copy)
 
 <p>
   <a href="https://vimeo.com/1095473479/f72bc72015?share=copy">
@@ -85,6 +85,21 @@
 - Check "My PC" in File Explorer to see space left
 - HIGHLY recommend [WinDirStat](https://windirstat.net/download.html) to visualize hard drive
 
+
+---
+
+
+## Lesson 3 Challenge: [Do You Have Enough HD Space?](https://vimeo.com/1095760591/f4473c0ac1?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1095760591/f4473c0ac1?share=copy">
+    <img src="content/thumb2.avif" alt="Installing VirtualBox" width="70%">
+  </a>
+</p>
+
+### Challenge Notes
+
+- [Link to Challenge](https://docs.google.com/forms/d/e/1FAIpQLSeW8a6WdD-DK9rdHc1AJvWiMF08fXLolmrRKOBYPFgcTXygvw/viewform?usp=header)
 
 ---
 
