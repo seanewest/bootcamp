@@ -8,7 +8,7 @@
 
 ---
 
-## Lesson 1: [Linux and Virtual Machines](https://vimeo.com/1095473479/f72bc72015?share=copy)
+## Lesson: [Linux and Virtual Machines](https://vimeo.com/1095473479/f72bc72015?share=copy)
 
 <p>
   <a href="https://vimeo.com/1095473479/f72bc72015?share=copy">
@@ -53,6 +53,21 @@
 - Don't forget to download the "Extension Pack" as well
 
 ---
+
+## Lesson 2 Challenge: [Have You Installed VirtualBox?](https://vimeo.com/1095760591/f4473c0ac1?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1095760591/f4473c0ac1?share=copy">
+    <img src="content/thumb2.avif" alt="Installing VirtualBox" width="70%">
+  </a>
+</p>
+
+### Challenge Notes
+
+- [Link to Challenge Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSe0E6SW9tP_DKCll1_pvD2Yjp78lVQD5YQvVSjxTBAYkAdd2Q/viewform?usp=header)
+
+---
+
 
 ## Lesson 3: [Virtual Machines and Hard Drive Space](https://vimeo.com/1096279831/b804b9812d?share=copy)
 
