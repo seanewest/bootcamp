@@ -54,11 +54,11 @@
 
 ---
 
-## Lesson 2 Challenge: [Have You Installed VirtualBox?](https://vimeo.com/1095760591/f4473c0ac1?share=copy)
+## Lesson 2 Challenge: [Have You Installed VirtualBox?](https://vimeo.com/1097323326/649bd0e474?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1095760591/f4473c0ac1?share=copy">
-    <img src="content/thumb2.avif" alt="Installing VirtualBox" width="70%">
+  <a href="https://vimeo.com/1097323326/649bd0e474?share=copy">
+    <img src="content/thumb2-challenge.avif" alt="Have You Installed VirtualBox?" width="70%">
   </a>
 </p>
 
@@ -89,11 +89,11 @@
 ---
 
 
-## Lesson 3 Challenge: [Do You Have Enough HD Space?](https://vimeo.com/1095760591/f4473c0ac1?share=copy)
+## Lesson 3 Challenge: [Do You Have Enough HD Space?](https://vimeo.com/1097323366/9c95e7e1cf?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1095760591/f4473c0ac1?share=copy">
-    <img src="content/thumb2.avif" alt="Installing VirtualBox" width="70%">
+  <a href="https://vimeo.com/1097323366/9c95e7e1cf?share=copy">
+    <img src="content/thumb3-challenge.avif" alt="Do You Have Enough HD Space?" width="70%">
   </a>
 </p>
 
