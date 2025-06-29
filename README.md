@@ -64,7 +64,7 @@
 
 ### Challenge Notes
 
-- [Link to Challenge Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSe0E6SW9tP_DKCll1_pvD2Yjp78lVQD5YQvVSjxTBAYkAdd2Q/viewform?usp=header)
+- [Link to Challenge](https://docs.google.com/forms/d/e/1FAIpQLSe0E6SW9tP_DKCll1_pvD2Yjp78lVQD5YQvVSjxTBAYkAdd2Q/viewform?usp=header)
 
 ---
 
