@@ -128,6 +128,19 @@ NOTE: For ALL of these username is `student` and password is `password`
 - [Xubuntu](https://www.dropbox.com/scl/fi/uln3qnum806pdusu6qzyy/xubuntu-25.04.ova?rlkey=oci684wogep9jwweyxj2d8225&st=3bpovmbv&dl=0)
 
 
+---
+
+## Lesson 4 Challenge: [Is Ubuntu Imported?](https://vimeo.com/1097323366/9c95e7e1cf?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1097323366/9c95e7e1cf?share=copy">
+    <img src="content/thumb3-challenge.avif" alt="Do You Have Enough HD Space?" width="70%">
+  </a>
+</p>
+
+### Challenge Notes
+
+- [Link to Challenge](https://docs.google.com/forms/d/e/1FAIpQLSf6g02EJl3yXwJhu6SnsUn7CUzBu0iI1rHxWDOy_HQb_PQWvw/viewform?usp=header)
 
 ---
 
