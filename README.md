@@ -200,6 +200,7 @@ NOTE: For ALL of these username is `student` and password is `password`
 - cat - print contents of file to terminal
 - clear - clear the terminal
 - curl - kind of like download
+  - use **curl -O** so it doesn't print directly to the terminal
 - head - top 10 lines of a file
 - tail - last 10
 - grep - search for keyword in text
@@ -209,4 +210,18 @@ NOTE: For ALL of these username is `student` and password is `password`
 - ctrl-shift-+ - increase terminal text size
 - ctrl-A - goes to beginning of line
 - up/down arrow keys - cycle through previous commands
+---
+
+## Lesson 6 Challenge: [Using the Command Line](https://vimeo.com/1097380845/d0e9ecc40b?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1097380845/d0e9ecc40b?share=copy">
+    <img src="content/thumb5-challenge.avif" alt="Using the Command Line" width="70%">
+  </a>
+</p>
+
+### Challenge Notes
+
+- [Link to Challenge](https://docs.google.com/forms/d/e/1FAIpQLScGT8tN5VWQTclOdEK9ud4Qf3q7eMFTyge_6p2srmwtzBLq_w/viewform?usp=header)
+
 ---
