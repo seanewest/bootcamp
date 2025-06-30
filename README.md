@@ -212,11 +212,11 @@ NOTE: For ALL of these username is `student` and password is `password`
 - up/down arrow keys - cycle through previous commands
 ---
 
-## Lesson 6 Challenge: [Using the Command Line](https://vimeo.com/1097380845/d0e9ecc40b?share=copy)
+## Lesson 6 Challenge: [Using the Command Line](https://vimeo.com/1097387047/185bd136d1?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1097380845/d0e9ecc40b?share=copy">
-    <img src="content/thumb5-challenge.avif" alt="Using the Command Line" width="70%">
+  <a href="https://vimeo.com/1097387047/185bd136d1?share=copy">
+    <img src="content/thumb6-challenge.avif" alt="Using the Command Line" width="70%">
   </a>
 </p>
 
