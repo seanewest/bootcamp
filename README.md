@@ -130,11 +130,11 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 ---
 
-## Lesson 4 Challenge: [Is Ubuntu Imported?](https://vimeo.com/1097323366/9c95e7e1cf?share=copy)
+## Lesson 4 Challenge: [Is Ubuntu Imported?](https://vimeo.com/1097372179/477a1258ef?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1097323366/9c95e7e1cf?share=copy">
-    <img src="content/thumb3-challenge.avif" alt="Do You Have Enough HD Space?" width="70%">
+  <a href="https://vimeo.com/1097372179/477a1258ef?share=copy">
+    <img src="content/thumb4-challenge.avif" alt="Is Ubuntu Imported?" width="70%">
   </a>
 </p>
 
