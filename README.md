@@ -166,7 +166,19 @@ NOTE: For ALL of these username is `student` and password is `password`
 - Most important linux application: Terminal / Command Line
 - Most computers running Linux are not consumer laptops/desktops
 
+---
 
+## Lesson 5 Challenge: [Can You Change the RAM?](https://vimeo.com/1097372179/477a1258ef?share=copy)
+
+<p>
+  <a href="https://vimeo.com/1097372179/477a1258ef?share=copy">
+    <img src="content/thumb4-challenge.avif" alt="Is Ubuntu Imported?" width="70%">
+  </a>
+</p>
+
+### Challenge Notes
+
+- [Link to Challenge](https://docs.google.com/forms/d/e/1FAIpQLSczHB2UCWeCOGdYoe9hhOaMsbc9v1XI4aw0iuZelgV3tAd_hQ/viewform?usp=header)
 
 ---
 

@@ -15,6 +15,7 @@ if [ "$total_mem_mb" -ge "$lower_bound" ] && [ "$total_mem_mb" -le "$upper_bound
     echo "$encoded" | base64 --decode
     echo ""
 else
+    echo
     echo "To complete this challenge, the VM's memory must be set to 1GB (or 1024 MB)."
     echo "This VM currently has more than 1GB of memory."
 fi
