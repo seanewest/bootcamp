@@ -168,11 +168,11 @@ NOTE: For ALL of these username is `student` and password is `password`
 
 ---
 
-## Lesson 5 Challenge: [Can You Change the RAM?](https://vimeo.com/1097372179/477a1258ef?share=copy)
+## Lesson 5 Challenge: [Can You Change the RAM?](https://vimeo.com/1097380845/d0e9ecc40b?share=copy)
 
 <p>
-  <a href="https://vimeo.com/1097372179/477a1258ef?share=copy">
-    <img src="content/thumb4-challenge.avif" alt="Is Ubuntu Imported?" width="70%">
+  <a href="https://vimeo.com/1097380845/d0e9ecc40b?share=copy">
+    <img src="content/thumb5-challenge.avif" alt="Can You Change the RAM?" width="70%">
   </a>
 </p>
 
